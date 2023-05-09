@@ -1,3 +1,5 @@
+<img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif">
+
 ### About me
 
 - 🎓 Currently 2nd year undergrad @ FERIT
