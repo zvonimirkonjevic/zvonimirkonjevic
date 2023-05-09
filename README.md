@@ -21,8 +21,6 @@
 
 > *loading...*
 
-<br></br>
-
 ![zvonimirkonjevic's Stats](https://github-readme-stats.vercel.app/api?username=zvonimirkonjevic&theme=react&show_icons=true&hide_border=true&count_private=true)
 
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />](https://www.linkedin.com/in/zvonimirkonjevic/) 
