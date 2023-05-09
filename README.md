@@ -8,3 +8,17 @@
 
 - 🛠 Lang & Framework: HTML, CSS, Javascript
 - ⛏ Interest: React, Express, Node.js, Typescript
+
+### Latest posts from 📝
+
+> *loading...*
+
+### TIL from 🗒
+
+> *loading...*
+
+### Portfolio
+
+> *loading...*
+
+<br></br>
