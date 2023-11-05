@@ -1,4 +1,4 @@
-<img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif">
+<img src="https://i.redd.it/nfk7xvs6eka21.gif">
 
 ### About me
 
