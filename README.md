@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/1c/f9/52/1cf95275df88f7bfc0141c7e759887fd.gif">
+<img src="https://i.redd.it/nfk7xvs6eka21.gif">
 
 ### About me
 
