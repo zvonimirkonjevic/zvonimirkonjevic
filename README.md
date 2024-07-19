@@ -20,10 +20,6 @@
 
 > *loading...*
 
-### Portfolio
-
-> *loading...*
-
 <br>
 
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />](https://www.linkedin.com/in/zvonimirkonjevic/) 
