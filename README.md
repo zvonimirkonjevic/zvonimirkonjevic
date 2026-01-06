@@ -8,7 +8,7 @@
 
 ### About me
 
-- 🎓 3rd year undergrad @ FERIT
+- 🎓 1st year grad @ FERIT
 - 🏠 Currently living in Osijek, Croatia
 - 💓 Passionate about math, problem solving, Deep Learning/ML
 
